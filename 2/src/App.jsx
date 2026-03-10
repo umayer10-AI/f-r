@@ -8,8 +8,9 @@ const App = () => {
 
       {/* {Card()} */}
 
-      <Card></Card>
       <Navbar></Navbar>
+      <Navbar></Navbar>
+      <Card></Card>
     </div>
   )
 }
